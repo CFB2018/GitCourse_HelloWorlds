@@ -1,0 +1,5 @@
+Subfolder/exact_file.log
+Subfolder/
+*.log
+**output/
+*.log
